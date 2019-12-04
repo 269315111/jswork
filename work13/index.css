@@ -2,7 +2,7 @@ body{
     margin-top: 20px;
 }
 
-.box{
+.box {
     font-family: Tahoma,simsun;
     font-size: 12px;
     border: 1px solid #1678BE;
@@ -10,51 +10,51 @@ body{
     margin: 0 auto;
 }
 
-.box-head{
+.box-head {
     padding: 5px 20px;
     background-color: #2487C9;
     color: #fff;
     font-size: 14px;
 }
 
-.box-body{
+.box-body {
     padding: 10px 20px;
 }
 
-.box-body th{
+.box-body th {
     font-weight: normal;
-    vertical-align: top;
-    padding-top: 5px; 
+    vertical-align:  top;
+    padding-top: 5px;
 }
 
-.box-body td{
+.box-body td {
     padding-top: 2px;
     padding-bottom: 8px;
 }
 
-.box-body select{
+.box-body select {
     font-family: Tahoma,simsun;
     font-size: 12px;
     padding: 2px 5px;
     cursor: pointer;
 }
 
-.box-body label{
+.box-body label {
     margin-right: 5px;
     cursor: pointer;
 }
 
-.box-body label input{
+.box-body label input {
     cursor: pointer;
 }
 
-.box-body input{
+.box-body input {
     vertical-align: middle;
-    font-family: Tahoma,simsun;
+    font-family: Tahoma, simsun;
     font-size: 12px;
 }
 
-.box-body input[type=text]{
+.box-body input[type=text] {
     padding: 2px;
 }
 
@@ -64,5 +64,5 @@ body{
 
 .box-body input[type=submit]{
     padding: 4px 15px;
-    cursor:pointer;
+    cursor: pointer;
 }
